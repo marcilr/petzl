@@ -10,6 +10,16 @@ This is the lithium based headlamp I always liked.
 No longer made by Petzl.
 
 
+Features
+========
+o Petzl Core lithium-ion polymer 900 mAh rechargeable battery
+o Rechargeable / 3 AAA
+o 50 lumens
+o beam max distance: 46 meters
+o weight with batteries: 2.9 ounces
+--rei.com
+
+
 Links
 =====
 Petzl Tikka XP 2 LED Headlamp
