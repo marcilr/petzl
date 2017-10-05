@@ -11,6 +11,15 @@ Links
 Petzl
 http://www.petzl.com
 
+Petzl Accu Core Battery
+This high-capacity lithium ion 1250 mAh rechargeable battery
+guarantees high-performance lighting for compact Petzl headlamps
+and recharges directly with an integrated USB port.
+Compatible with Tikkina, Tikka, Zipka, Actik, Actik Core, Tactikka,
+Tactikka + and Tactikka + RGB headlamps.
+price: $29.95
+https://www.rei.com/product/109955/petzl-accu-core-battery?CAWELAID=120217890003418267&CAGPSPN=pla&CAAGID=15724846360&CATCI=aud-87986356584:pla-127205758360&cm_mmc=PLA_Google|404_11538|1099550001|none|3b2572b1-74fb-46ff-b5ad-d61a39b7830c|aud-87986356584:pla-127205758360&lsft=cm_mmc:PLA_Google_LIA|404_11538|1099550001|none|3b2572b1-74fb-46ff-b5ad-d61a39b7830c|aud-87986356584:pla-127205758360&gclid=Cj0KCQjwsNfOBRCWARIsAGITapZLf_hFJ8CdNriBuAB6jRHzlvzBAMSODY2Uz44XeD3RPEXjlkMC_FQaAqajEALw_wcB
+
 Petzl Actik Core Headlamp
 o IPX4 water resistance
 o 360 lumens
@@ -19,6 +28,3 @@ price: $59.95
 This is likely the replacement for the old Tikka XP 2 LED Headlamp
 Would go from 80 lumens to 350 lumens
 https://www.rei.com/product/109953/petzl-actik-core-headlamp
-
-Petzl Tikka XP 2 LED Headlamp
-https://www.rei.com/product/791313/petzl-tikka-xp-2-led-headlamp
